@@ -1,1 +1,2 @@
-# NumbersGame1
+# NumbersGame
+Ta programmet med en nypa salt
